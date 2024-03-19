@@ -194,10 +194,9 @@ These test cases cover various scenarios to ensure the correctness and reliabili
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![SNYCK](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/githubcopilot-%23026AA7.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ## Credits 🎖️
 
@@ -207,6 +206,6 @@ These test cases cover various scenarios to ensure the correctness and reliabili
 
 ## Get in Touch ✉️
 
-![Amir Iqbal](https://www.linkedin.com/in/chef-ai/)
+[Amir Iqbal](https://www.linkedin.com/in/chef-ai/)
 
-![Ticha Nji](https://www.linkedin.com/in/ticha-godwill-nji-206563228/)
+[Ticha Nji](https://www.linkedin.com/in/ticha-godwill-nji-206563228/)
