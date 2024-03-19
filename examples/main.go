@@ -85,16 +85,6 @@ for i, path := range allPaths.Paths {
 	fmt.Println()
 }
 	
-	// fmt.Println("-----------All Paths-------------")
-	// fmt.Println()
-	// for i, path := range allPaths.Paths {
-	// 	fmt.Printf("Path %d:\n", i)
-	// 	for _, room := range path.P {
-	// 		fmt.Printf("%s -> ", room.Key)  
-	// 		fmt.Println()
-	// 	}
-		
-	// }
 
 	fmt.Println("---------All Combinations--------")
 	for i, combo := range allPaths.Combo {
@@ -112,27 +102,6 @@ for i, path := range allPaths.Paths {
 			fmt.Println()
 		}
 	}
-	// for i, combo := range allPaths.Combo {
-	// 	fmt.Printf("Combination %d:\n", i)
-	// 	for j, path := range combo {
-	// 		fmt.Printf("Path %d:\n", j)
-	// 		fmt.Println()
-	// 		for _, room := range path.P {
-	// 			fmt.Printf("%s -> ", room.Key)
-	// 			fmt.Println()
-	// 		}
-	// 		// fmt.Println()
-	// 	}
-	// }
-
-
-	// fmt.Println("----------Optimal Path-----------")
-	// fmt.Println()
-	// for _, room := range allPaths.OptPath[0].P {
-	// 	fmt.Printf("%s -> ", room.Key)
-	// 	// fmt.Println()
-	// }
-	// fmt.Println()
 
 fmt.Println("----------Optimal Path-----------")
 fmt.Println()
