@@ -1,5 +1,3 @@
-<a href="https://www.buymeacoffee.com/PinkishWarrior" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
-
 # LEM-IN 🎬 
 
 ## An Ant Movement Optimization 🐜 🔄
@@ -57,10 +55,6 @@ Provide example input files and expected output for testing purposes.
 BSF
 
 ## Resources 📚
-
-- [LEM-IN: Previous Project](https://github.com/Dias1c/lem-in)
-- [LEM-IN: Medium](https://medium.com/@jamierobertdawson/lem-in-finding-all-the-paths-and-deciding-which-are-worth-it-2503dffb893)
-
 - [Dijkstra’s Shortest Path Algorithm](https://www.youtube.com/watch?v=pVfj6mxhdMw)
 - [Dijkstra's Shortest Path Algorithm Explained](https://www.youtube.com/watch?v=bZkzH5x0SKU) 🔑
 - [Edmonds-Karp](https://youtu.be/RppuJYwlcI8) 🔑
@@ -188,8 +182,6 @@ These test cases cover various scenarios to ensure the correctness and reliabili
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 [![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat-square)](https://pinkish-warrior.github.io/webpage/)
 
-<!-- ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white) -->
-<!-- ![Discord](https://img.shields.io/badge/-discord-000000?style=flat&logo=discord) -->
 
 ![powersell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 ![workspace](https://img.shields.io/badge/workspace-143157?style=for-the-badge&logo=NX&logoColor=white)
@@ -209,12 +201,12 @@ These test cases cover various scenarios to ensure the correctness and reliabili
 
 ## Credits 🎖️
 
-- tmachado 💡
-- jesaed
-- creed
+- Aiqbal 💡
+- Tnji
+- MohAbdulla
 
 ## Get in Touch ✉️
 
-![QR Code](https://chart.googleapis.com/chart?cht=qr&chs=100x100&chl=https://pinkish-warrior.github.io/webpage/)
+![Amir Iqbal](https://www.linkedin.com/in/chef-ai/)
 
-[![discord](https://img.shields.io/badge/contact-me-purple?logo=discord&logoColor=white)](https://discordapp.com/users/830386901021360169830386901021360169)
+![Ticha Nji](https://www.linkedin.com/in/ticha-godwill-nji-206563228/)

@@ -24,7 +24,7 @@ func PrintAntMovement(p *Allpaths, ants int) {
 			// Iterate over rooms in the path
 			for k, room := range p.OptPath[i].P {
 				// Append ant movement to the corresponding tick in the movementOutput
-				movementOutput[k+j] = append(movementOutput[k+j], "L"+strconv.Itoa(antName)+"-"+room.Key)
+				movementOutput[k+j] = append(movementOutput[k+j], "L"+strconv.Itoa(antName)+"-"+(room.Key))
 			}
 			// Increment the ant identifier
 			antName++
