@@ -173,6 +173,7 @@ These test cases cover various scenarios to ensure the correctness and reliabili
 
 ## Tools & Skills 🧰
 
+![GitHub Copilot](https://img.shields.io/badge/githubcopilot-%23026AA7.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -190,19 +191,20 @@ These test cases cover various scenarios to ensure the correctness and reliabili
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/githubcopilot-%23026AA7.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
 
 ## Credits 🎖️
 
 - Aiqbal 💡
-- Tnji
-- MohAbdulla
+- Tnji 💡
+- MohAbdulla 💡
 
 ## Get in Touch ✉️
 
